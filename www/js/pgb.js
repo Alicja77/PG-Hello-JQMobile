@@ -18,3 +18,9 @@ function deviceInfo() {
 
 	document.getElementById("deviceDetails").innerHTML = info;	
 }
+
+function interests() 
+{
+	i = 'Lubimy grać w pilke ale po nas nie widać :) ' + '<br>'+
+	'nałogowo głaszczemy koty ' + '<br>';
+}
