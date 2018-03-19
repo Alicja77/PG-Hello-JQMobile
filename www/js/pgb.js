@@ -24,3 +24,5 @@ function interests()
 	i = 'Lubimy grać w pilke ale po nas nie widać :) ' + '<br>'+
 	'nałogowo głaszczemy koty ' + '<br>';
 }
+
+document.getElementById("interests").innerHTML = i ;
